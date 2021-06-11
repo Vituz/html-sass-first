@@ -1,0 +1,27 @@
+body {
+    background-color: lightgray;
+}
+
+$brand_primary: rgb(20, 96, 218);
+
+$brand_secondary: rgb(95, 152, 243);
+
+$button_color:rgb(2, 136, 209);
+
+$button_text_color: black;
+
+h1 {
+    color: $brand_primary;
+}
+
+h2 {
+    color: $brand_secondary;
+}
+
+button {
+    background-color: $button_color;
+    color: $button_text_color;
+    padding: 0.3rem 0.6rem;
+    border-radius: 0.4rem;
+    border: 1px solid black;
+}

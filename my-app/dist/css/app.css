@@ -1,0 +1,19 @@
+body {
+  background-color: lightgray;
+}
+
+h1 {
+  color: #1460da;
+}
+
+h2 {
+  color: #5f98f3;
+}
+
+button {
+  background-color: #0288d1;
+  color: black;
+  padding: 0.3rem 0.6rem;
+  border-radius: 0.4rem;
+  border: 1px solid black;
+}
